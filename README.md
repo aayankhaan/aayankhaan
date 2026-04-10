@@ -1,18 +1,27 @@
-Hi there! 👋 I'm Aayan
+Hi there! I'm Aayan Khan.
 
-About Me: I'm a passionate Full-Stack Web Developer and Minecraft Plugin Developer with a strong background in multiple programming languages. I enjoy building dynamic web applications, creating custom Minecraft plugins, and constantly improving my skills.
+**About Me**
+I’m a results-driven developer specializing in **Java backend systems** and **Minecraft plugin development (Paper API)** I focus on building scalable, high-performance architectures with clean, maintainable code. Alongside backend work, I develop modern web applications using **React and TypeScript** delivering efficient and user-focused solutions
 
-Proficient in: JavaScript, Python, HTML, CSS, Java, kotlin
+**Core Skills**
 
-Currently sharpening: PHP, C#, C++
+* **Languages:** Java, TypeScript, JavaScript
+* **Frontend:** React.js, HTML, CSS
+* **Backend & Systems:** Plugin architecture, performance optimization, modular design
 
-Learning: React.js, TypeScript
+**Professional Focus**
 
-Development Areas: Web Development (Front-end & Back-end), Minecraft Plugin Development (Spigot/Bukkit/BungeeCord)
-📫 Connect With Me
+* Designing scalable backend systems in Java
+* Developing advanced Minecraft server infrastructures
+* Building responsive web applications with React + TypeScript
+* Writing clean, reusable, and production-ready code
 
-GitHub: [aayankhaan](https://github.com/aayankhaan)
+**Additional Experience**
+Python, PHP, C#, C++
 
+📫 **Connect With Me**
+GitHub: [aayankhaan](https://github.com/aayankhaan) 
 Instagram: [aaya.n_khann](https://www.instagram.com/aaya.n_khann/)
+Email: aayankhan89012@gmail.com
 
-Feel free to reach out for collaborations, discussions, or just to say hi!
+I’m open to collaborations, freelance opportunities, and innovative projects.
