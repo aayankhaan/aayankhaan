@@ -20,8 +20,11 @@ I’m a results-driven developer specializing in **Java backend systems** and **
 Python, PHP, C#, C++
 
 📫 **Connect With Me**
-GitHub: [aayankhaan](https://github.com/aayankhaan) 
+
+GitHub: [aayankhaan](https://github.com/aayankhaan)
+
 Instagram: [aaya.n_khann](https://www.instagram.com/aaya.n_khann/)
+
 Email: aayankhan89012@gmail.com
 
 I’m open to collaborations, freelance opportunities, and innovative projects.
